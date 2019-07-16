@@ -1,0 +1,2 @@
+# springboot_rabbitmq
+springboot_rabbitmq的demo，仅供参考学习
